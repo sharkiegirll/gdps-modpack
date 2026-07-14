@@ -4,6 +4,16 @@ This simple mod installs several useful mods without needing to install them man
 
 ## <cj>ModPack List:</c>
 <mod:geode.node-ids>
+<mod:tobyadd.gdh>
+<mod:syzzi.click_between_frames>
+<mod:bitz.customprofiles>
+<mod:alphalaneous.awesome_modifier_icons>
+<mod:ninkaz.colorful-icons>
+<mod:firee.goldenbest>
+<mod:hjfod.betteredit>
+<mod:blueblock6.cleanstartpos>
+<mod:itzkiba.better_progression>
+<mod:m336.gdps-badges>
 
 (NOTE: Mod made for GDPS)
 
