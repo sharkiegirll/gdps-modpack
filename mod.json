@@ -8,7 +8,7 @@
 	},
 	"id": "sharkiegirl.usefulmodpack",
 	"name": "Useful ModPack",
-	"version": "1.0",
+	"version": "1.0.0",
 	"developer": "SharkieGirl",
 	"description": "This mod downloads several useful mods.",
 	"dependencies": {
