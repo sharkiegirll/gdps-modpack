@@ -2,5 +2,8 @@
 
 This simple mod installs several useful mods without needing to install them manually.
 
-NOTE: Mod made for <cj>GDPS</c>
+## <cj>ModPack List:</c>
+<mod:geode.node-ids>
+
+(NOTE: Mod made for GDPS)
 
