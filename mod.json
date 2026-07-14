@@ -12,17 +12,17 @@
 	"developer": "SharkieGirl",
 	"description": "This mod downloads several useful mods.",
 	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-		"tobyadd.gdh": ">=v5.1.0-beta.1"
-		"syzzi.click_between_frames": ">=v1.5.0"
-		"bitz.customprofiles": ">=v1.1.5"
-		"alphalaneous.awesome_modifier_icons": ">=v1.0.11"
-		"ninkaz.colorful-icons": ">=v1.0.10"
-		"firee.goldenbest": ">=v1.1.3"
-		"hjfod.betteredit": ">=v6.10.0-beta.6"
-		"blueblock6.cleanstartpos": ">=v2.0.8"
-		"itzkiba.better_progression": ">=v1.3.3"
-		"m336.gdps-badges": ">=v1.0.0"
+		"geode.node-ids": "1.23.3"
+		"tobyadd.gdh": "5.1.0-beta.1"
+		"syzzi.click_between_frames": "1.5.0"
+		"bitz.customprofiles": "1.1.5"
+		"alphalaneous.awesome_modifier_icons": "1.0.11"
+		"ninkaz.colorful-icons": "1.0.10"
+		"firee.goldenbest": "1.1.3"
+		"hjfod.betteredit": "6.10.0-beta.6"
+		"blueblock6.cleanstartpos": "2.0.8"
+		"itzkiba.better_progression": "1.3.3"
+		"m336.gdps-badges": "1.0.0"
 		
 	}
 }
